@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+.card-simpsons{
+  width: 10rem;
+  height: auto;
+  border: 2px solid rgb(255, 251, 251);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  background-color: #4a83ffee;
+  padding: 1rem 0 1rem 0;
+  border-radius: 10px;
+}
+
+.gif{
+  width: 80%;
+  height: auto;
+}
+
+
+
+
+  
